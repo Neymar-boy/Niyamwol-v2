@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=00FF00&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=00FF00&lines=WELCOME+TO+NIYAMWOL+WA+BOT.;CREATED+BY+NASIF+ANSHID;)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/880CEdp.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/aqjv8k9.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Niyamwol" src="https://img.shields.io/badge/NIYAMWOL-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Neymar-boy"><img title="Author" src="https://img.shields.io/badge/Author-Neymar-boy/Niyamwol-v2?color=lime&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Neymar-boy">Neymar-boy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neymar-boy/Niyamwol-v2)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/Neymar-boy/Niyamwol-v2/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Neymar-boy/Niyamwol-v2 copy this url and change Neymar-boy with your github username and click go<br>
 
 ----
 
@@ -57,17 +57,17 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/c/Neymar-boy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Neymar-boy/Niyamwol-v2">
+    <img src="https://img.shields.io/github/repo-size/Neymar-boy/Niyamwol-v20?color=lime&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra2.0?label=Watchers&color=lime&style=flat-square"></a>
+<a href="https://github.com/Neymar-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/Neymar-boy?color=lime&style=flat-square"></a>
+<a href="https://github.com/Neymar-boy/Niyamwol-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Neymar-boy/Niyamwol-v2?color=lime&style=flat-square"></a>
+<a href="https://github.com/Neymar-boy/Niyamwol-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Neymar-boy/Niyamwol-v2?color=lime&style=flat-square"></a>
+<a href="https://github.com/Neymar-boy/Niyamwol-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Niyamwol-v2?label=Watchers&color=lime&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-lime.svg"</a>
 </p>
 
@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4)
   <div align="center">
        
   </div>
@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/Neymar-boy/Niyamwol-v2
+$ cd niya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/Neymar-boy/Niyamwol-v2
+$ cd niya
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`Neymar-boy`](https://github.com/Neymar-boy.png?size=200)](https://github.com/Neymar-boy)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`Neymar-boy`](https://github.com/Neymar-boy)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
@@ -130,4 +130,3 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
