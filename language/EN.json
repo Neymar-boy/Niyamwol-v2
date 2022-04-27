@@ -79,7 +79,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Rudhra",
+            "RESTART_DESC": "Restart Niya",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Bot",
             "SHUTDOWN_MSG": "```Appo Seri Tata📴```",
@@ -153,7 +153,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Rudhra ini varathilla 🥲```",
+            "KICKME": "```Bye bye! Niyamwol ini varathilla 🥲```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -202,9 +202,9 @@
             "UPLOADING_SONG": "✮⃝🎸ƦUÐҤƦλ UPŁØλÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/watch?v=HD1-MX9q6fY```",
-            "DOWNLOADING_VIDEO": "*✮⃝🎞️rυdнra downloadιng yoυr vιdeo✮⃝🎥*",
-            "UPLOADING_VIDEO": "*✮⃝🎞️rυdнra υploadιng yoυr vιdeo✮⃝🎥*",
-            "LOADING": "*✮⃝🎞️rυdнra downloadιng yoυr vιdeo✮⃝🎥*",
+            "DOWNLOADING_VIDEO": "*✮⃝🎞️Niyamwol downloadιng yoυr vιdeo✮⃝🎥*",
+            "UPLOADING_VIDEO": "*✮⃝🎞️Niyamwol υploadιng yoυr vιdeo✮⃝🎥*",
+            "LOADING": "*✮⃝🎞️Niyamwol downloadιng yoυr vιdeo✮⃝🎥*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -239,14 +239,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ƦUÐҤƦλ ł$ ₡ØMPŁE₸EŁ¥ UP-₸Ø-Ðλ₸E!*",
-            "NEW_UPDATE": "*₦E₩ UPÐλ₸E λVλłŁλBŁE ₣ØƦ ƦUÐҤƦλ!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP*\n\n*https://youtube.com/c/PrinceRudh*\n\nChanges:\n```",
+            "UPDATE": "*ɴɪʏᴀᴍᴡᴏʟ ɪᴤ ᴄᴏᴍᴘʟᴇᴛᴇ ᴛᴏ ᴜᴘᴅᴀᴛᴇ!*",
+            "NEW_UPDATE": "*₦E₩ UPÐλ₸E λVλłŁλBŁE ₣ØƦ Niya!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4*\n\n*https://youtube.com/c/PrinceRudh*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```ƦUÐҤƦλ UPÐλ₸E ₡ҤE¥¥λ₸₸E...⏳```",
+            "UPDATING": "```ɴɪʏᴀᴍᴡᴏʟ ᴜᴘᴅᴀᴛᴇ ᴄʜᴇʏʏᴀᴛᴛᴇ...⏳```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*ƦUÐҤƦλ UPÐλ₸E ƙλZҤł₦JU ✅*",
-            "UPDATED_LOCAL": "*✅ƦUÐҤƦλ UPÐλ₸EÐ!*",
-            "AFTER_UPDATE": "*ƦUÐҤƦλ ƦE$₸λƦ₸ł₦G*",
+            "UPDATED": "*ɴɪʏᴀᴍᴡᴏʟ ᴜᴘᴅᴀᴛᴇ ᴋᴀʏɪɴᴊᴜ ✅*",
+            "UPDATED_LOCAL": "*✅ɴɪʏᴀᴍᴡᴏʟ ᴡᴏʀᴋɪɴɢ!*",
+            "AFTER_UPDATE": "*ɴɪʏᴀᴍᴡᴏʟ ʀᴇᴤᴛᴀʀᴛ ᴄʜᴇʏʏᴀᴛᴛᴇ*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -303,14 +303,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Rudhra Converts video to sound.",
+            "MP4TOAUDİO_DESC": "Niyamwol Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Rυԃԋɾα Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
+            "MP4TOAUDİO": "```ñìyamwøl Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
             "ANİM_STİCK": "Converts animated stickers to video.",
             "ANİMATE": "```Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```ʀᴜᴅʜʀᴀ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
+            "STİCKER": "```ɴɪʏᴀᴍᴡᴏʟ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "Rudhra Converts audio to sound recording.",
+            "UV_DESC": "Niyamwol Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Rudhra Converting to Sound Recording..```"
+            "UV_PROC": "```Niyamwol Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
